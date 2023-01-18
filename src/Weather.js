@@ -51,7 +51,7 @@ export default function Weather() {
             <img src={icon} alt="icon" />
           </li>
         </ul>
-        <div>Coded by Flávia Nunes, with open source on <a href="" tittle="GitHub Repository">GitHub</a></div>
+        <div>Coded by Flávia Nunes, with open source on <a href="https://github.com/flaviacastnunes/project-react" tittle="GitHub Repository">GitHub</a></div>
       </div>
     );
   }
